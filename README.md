@@ -1,4 +1,11 @@
 ## WNCC SOC 2021 - Assignment
+
+### Checkpoint 1
+This repo contains assignment done during course 1 and course 2 for deep learning specialization on coursera.
+
+### Checkpoint 2
+A simple PyTorch network has been implemented on MNIST given sufficient accuracy.
+
 ### Checkpoint 3 
 All the (2/4) Model Implementation along with their training are present in Part 3
 
@@ -8,10 +15,5 @@ Yet following points can be mentioned:
 1. VGGNet trained very fast compared to AlexNet.
 2. Performance of AlexNet however was better on training set , VGG being simple probably overfitted.
 
----
-
-### Checkpoint 1
-This repo contains assignment done during course 1 and course 2 for deep learning specialization on coursera.
-
-### Checkpoint 2
-A simple PyTorch network has been implemented on MNIST given sufficient accuracy.
+### Checkpoint 4 
+ Simple transfer learning is implemented using pretrained VGGNet on CIFAR100, achieving accuracy of 58 %.
