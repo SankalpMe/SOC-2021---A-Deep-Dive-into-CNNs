@@ -1,4 +1,4 @@
-# WNCC SOC 2021 - Assignment
+# SOC 2021 - A Deep Dive into CNNs
 
 
 ## Checkpoints 
@@ -53,6 +53,8 @@ Yet following points can be mentioned:
 > Google LeNet : The implementation similar to https://github.com/bentrevett/pytorch-image-classification/blob/master/2_lenet.ipynb performed very poorly, it achieved accuracy of < 15 % for both FashionMNIST and CIFAR100. 
 
 
-Please take this into consideration due, 
+Please take this into consideration that to lack of resources complete training could not be done of the model , hence it is possible the certain models performed very poorly.
+
+
 ### Checkpoint 4 
- Simple transfer learning is implemented using pretrained VGGNet on CIFAR100, achieving accuracy of 58 %.
+ Simple transfer learning is implemented using pretrained VGGNet, ResNet on CIFAR100, achieving accuracy in range of 48 - 58 %.
