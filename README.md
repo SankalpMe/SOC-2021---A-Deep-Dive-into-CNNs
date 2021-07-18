@@ -1,5 +1,19 @@
 # SOC 2021 - A Deep Dive into CNNs
 
+## Brief
+It was a learning project for a small introduction to CNN Networks.
+Starting right from the basics of Neural Networks, Gradient Descent, Forward Propagation to a full fledged densely connected network and then the CNNs and the famous networks like resnet, alexnet, vggnet, googlenet.
+The project involved theory and some practice assignment, it involved writing of a full densely connected neural network in Python with help of numpy.
+The project involved learning about fundamental concepts used in machine learning to analyze the salient features of these different architectures and evaluate their relative performances. A basic implementation of these architectures was done using  PyTorch, after which transfer learning was used to train deeper models on bigger datasets (CIFAR100,FashionMNIST,Caltech 101) for classification.
+ 
+## Software & Frameworks
+Softwares:
+1. Python
+2. Jupyter Notebook
+3. Google Colab
+Libraries : PyTorch, NumPy, Matplotlib, TensorFlow
+
+***
 
 ## Checkpoints 
 
